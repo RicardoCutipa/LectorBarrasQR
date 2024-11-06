@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "849429187790",
+    "project_id": "barras-762b5",
+    "storage_bucket": "barras-762b5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849429187790:android:f95a5653501a99b1bf549f",
+        "android_client_info": {
+          "package_name": "com.example.codigobarras"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBczVp0zqLx4skoK3kZZdpnBm2z634G_Jo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
